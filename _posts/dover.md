@@ -1,15 +1,13 @@
 ---
-title: 'The White Cliffs of Dover'
-excerpt: "Have you seen these cliffs? Cos if you haven't i shit you not it literally changed my life. It literally feels as if I've touched god and had his babies."
+title: 'Tutorial: Accessing Medical Cannabis In Australia'
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis turpis id nulla aliquam vulputate ac et nisl."
 coverImage: '/assets/blog/covers/dover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Alyson Reynolds
+  name: Luke Reynolds
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/covers/dover.jpg'
 ---
 
-Have you seen these cliffs? Cos if you haven't i shit you not it literally changed my life. It literally feels as if I've touched god and had his babies.
-
-Till next time ma homettes. Keep it real. You can do it! Feed the good wolf n all that!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis turpis id nulla aliquam vulputate ac et nisl.
