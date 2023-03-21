@@ -1,13 +1,13 @@
 ---
-title: 'How Cannabis Turned My Son Into A Demon'
-excerpt: "Ok Jk jk. Title is obviously untrue. My son is not a demon, nor was he ever. Because he's the devil arr harr harr!?!?"
+title: 'Why Is Medical Cannabis Not Covered Under Medicare?'
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis turpis id nulla aliquam vulputate ac et nisl."
 coverImage: '/assets/blog/covers/cannabisSavesLives.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Alyson Reynolds
+  name: Luke Reynolds
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/covers/cannabisSavesLives.jpg'
 ---
 
-Ok Jk jk. Title is obviously untrue. My son is not a demon, nor was he ever. Because he's the devil arr harr harr!?!?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis turpis id nulla aliquam vulputate ac et nisl. Etiam porttitor malesuada ligula at posuere. Cras euismod semper libero id eleifend. Aenean ultricies, velit sit amet volutpat dictum, sapien massa elementum tortor, ut finibus nisi sapien id erat. Proin commodo mollis metus in aliquam. Vivamus sed aliquet diam, quis finibus diam. Fusce vulputate leo metus, id tempor mauris auctor in. Mauris cursus, risus vitae dignissim convallis, neque nunc porttitor urna, sit amet tristique turpis risus a turpis. Cras iaculis volutpat ante vel lobortis. Nulla elit purus, mattis in laoreet et, ullamcorper eu augue. Sed ornare, nulla eget gravida elementum, risus dui lacinia dolor, et molestie tellus elit a nisi. Morbi dapibus pulvinar ligula, nec fringilla odio ornare sit amet. Fusce sagittis posuere mauris, vitae tristique nunc commodo sed.
